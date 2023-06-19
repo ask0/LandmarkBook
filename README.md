@@ -18,6 +18,13 @@ git clone https://github.com/ask0/LandmarkBook.git
 3. Connect your Android device to your computer.
 4. Build and run the application on your device from Android Studio.
 
+# Screenshot
+<img src="https://raw.githubusercontent.com/ask0/LandmarkBook/master/screenshots/Screenshot_1.png" height="400px">
+
+<img src="https://raw.githubusercontent.com/ask0/LandmarkBook/master/screenshots/Screenshot_2.png" height="400px">
+
+<img src="https://raw.githubusercontent.com/ask0/LandmarkBook/master/screenshots/Screenshot_3.png" height="400px">
+
 # Usage
 Once you have installed and launched the LandmarkBook application, you can:
 
